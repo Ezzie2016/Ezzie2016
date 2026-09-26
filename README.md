@@ -17,6 +17,7 @@ Status: pre-launch, recruiting the first 5 merchants in Lagos.
 
 | Project | What it shows |
 |---|---|
+| [kiosk-sales-crm](https://github.com/Ezzie2016/kiosk-sales-crm) | Internal sales CRM for recruiting Kiosk merchants. React, TypeScript, Supabase. Authorization enforced in Postgres row-level security, 139 unit tests, and an automated access-control test suite. |
 | [circuit-canvas](https://github.com/Ezzie2016/circuit-canvas) | Full-stack learning platform with student, teacher, and admin roles. Next.js, TypeScript, Prisma, PostgreSQL. |
 | [Multilingualdiagnosticssystem](https://github.com/Ezzie2016/Multilingualdiagnosticssystem) | Five-person team project: a symptom checker that accepts input in multiple languages, with three layers of fallback when the model is unavailable. |
 | [real-estate](https://github.com/Ezzie2016/real-estate) | Property listing site. Node.js, Express, MongoDB. Recently hardened: access-control fixes, XSS escaping, and listing pages cut from 780 KB to under 13 KB. |
@@ -27,10 +28,10 @@ Status: pre-launch, recruiting the first 5 merchants in Lagos.
 
 ## Stack
 
-**Languages:** TypeScript, JavaScript, SQL
-**Frontend and mobile:** React, React Native (Expo), Next.js
-**Backend and data:** Node.js, Express, Supabase, PostgreSQL, Prisma, MongoDB
-**Testing:** Jest, Vitest
+- **Languages:** TypeScript, JavaScript, SQL
+- **Frontend and mobile:** React, React Native (Expo), Next.js
+- **Backend and data:** Node.js, Express, Supabase, PostgreSQL, Prisma, MongoDB
+- **Testing:** Jest, Vitest
 
 ## Contact
 
