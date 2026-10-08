@@ -14,15 +14,6 @@ Status: pre-launch, recruiting the first 5 merchants in Lagos.
 ## Other work
 # What I'm building
 
-**[Kiosk](https://github.com/Ezzie2016/Kiosk)**, an offline-first business operating system for micro-merchants. Sales, stock, expenses, and customer debt on a phone, with no internet required.
-
-- **Engineering:** React Native (Expo), TypeScript, SQLite with a custom offline sync manager, Supabase with row-level security, versioned Postgres migrations with reverse scripts, Jest tests
-- **Product and delivery:** a four-phase roadmap with a validation gate that blocks new features until real merchants are using the current ones, 12 recorded architecture decisions, a production migration runbook, and QA checklists for every feature
-
-Status: pre-launch, recruiting the first 5 merchants in Lagos.
-
-## Other work
-
 | Project | What it shows |
 |---|---|
 | [kiosk-sales-crm](https://github.com/Ezzie2016/kiosk-sales-crm) | Internal sales CRM for recruiting Kiosk merchants. React, TypeScript, Supabase. Authorization enforced in Postgres row-level security, 139 unit tests, and an automated access-control test suite. |
